@@ -18,13 +18,13 @@
                 <a href="#">Portfolio</a>
             </li>
             <li class="header__nav__menu__link">
-                <a href="#">Expériences</a>
+                <a href="../page_experience.php">Expériences</a>
             </li>
             <li class="header__nav__menu__link">
                 <a href="../page_formation.php">Formation</a>
             </li>
             <li class="header__nav__menu__link">
-                <a href="#">Contact</a>
+                <a href="../formBC.php">Contact</a>
             </li>
         </ul>
         </div>
